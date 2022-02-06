@@ -1,23 +1,24 @@
- Spring Initializer
- Open project with IntelliJ
- Starting the Server
- A simple api with Spring Boot
- Student Class
- Api Layer
- Business Layer
- Dependency Injection
- Properties File
- Creating and Connecting to Database
- JPA and @Entity
- Student Table in Action
- Quick Word on Databases
- JPA Repository
- Saving Students
- @Transient
- Post Mapping
- Writing Some Business Logic
- Testing Post Request
- Deleting Students
- Testing
- Packaging and Running the application
- Next steps
+1.	Spring Initializer
+2.	Open project with IntelliJ
+3.	Starting the Server
+4.	A simple api with Spring Boot
+5.	Student Class
+6.	Api Layer
+7.	Business Layer
+8.	Dependency Injection
+9.	Properties File
+10.	Creating and Connecting to Database
+11.	JPA and @Entity
+12.	Student Table in Action
+13.	Quick Word on Databases
+14.	JPA Repository
+15.	Saving Students
+16.	@Transient
+17.	Post Mapping
+18.	Writing Some Business Logic
+19.	Testing Post Request
+20.	Deleting Students
+21.	Testing
+22.	Packaging and Running the application
+23.	Next steps
+
