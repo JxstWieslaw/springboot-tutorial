@@ -1,6 +1,7 @@
 # SpringBoot-Tutorial
 ## 🎯🥳Complete SpringBoot Application Development with Comments❤️‍🔥
 
+The code in this repository is commnented out 😁throughout the development proces! Feel free to reach out clarifications!
 
 ![Java_img](https://user-images.githubusercontent.com/72025253/152687744-7c2b74c1-fc38-4c01-bebe-e1dcd790cc62.png)   ![spring 5 boot 2](https://user-images.githubusercontent.com/72025253/152047387-bdd7a428-cb9d-49c0-be69-3114898f1c99.png)   ![postgresql (1)](https://user-images.githubusercontent.com/72025253/152687737-65a1efa9-9ffe-4052-9e76-19f0f3520aef.png)
 
